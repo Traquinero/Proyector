@@ -5,7 +5,7 @@
 
 <p>
 Conejo Rosa <br>
-$50.00 c/u  <br>
+$60.00 c/u  <br>
 Dimensiones: 72x34x71 mm 
 </p>
 
@@ -13,7 +13,7 @@ Dimensiones: 72x34x71 mm
 
 <p>
 Cubo Antiestrés <br>
-$50.00 c/u      <br>
+$60.00 c/u      <br>
 Dimensiones: 40x81x20 mm
 </p>
 
@@ -64,7 +64,7 @@ Dimensiones: 80x40x75 mm
 
 <p>
 Base Celular Estándar  <br>
-$75.00 c/u <br>
+$80.00 c/u <br>
 Dimensiones:100x92x79 mm
 </p>
 
@@ -72,7 +72,7 @@ Dimensiones:100x92x79 mm
 
 <p>
 Base Celular Reforzada <br>
-$75.00 c/u <br>
+$80.00 c/u <br>
 Dimensiones:95x86x70 mm 
 </p>
 
@@ -80,14 +80,14 @@ Dimensiones:95x86x70 mm
 
 <p>
 Llaveros personalizados <br>
-$50.00 pesos 
+$60.00 pesos 
 </p>
 
 ![llaveros personalizados](<imagenes impresas 3d/llaveros personalizados.jpeg>)
 
 <p>
 Carcasas para USB KEY  <br>
-$50.00 pesos
+$60.00 pesos
 </p>
 
 ![alt text](<imagenes impresas 3d/carcasa usb key .png>)
